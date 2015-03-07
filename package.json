@@ -1,0 +1,21 @@
+{
+  "name": "GameOfLife",
+  "version": "1.0.0",
+  "description": "npm init sudo npm install karma -g mkdir src mkdir test ./node_modules/karma/bin/karma init npm install mocha --save-dev npm install karma-mocha --save-dev npm install karma-chai --save-dev npm install karma-sinon --save-dev npm install bower -g bower init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-mocha": "^0.1.10",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-sinon": "^1.0.4",
+    "mocha": "^2.2.0",
+    "sinon": "^1.13.0"
+  }
+}
